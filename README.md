@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanskar Mishra</h1>
+<h1 align="center">Hi , I'm Sanskar Mishra</h1>
 <h3 align="center">A passionate engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarfcb&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarfcb" /> </p>
@@ -7,7 +7,15 @@
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
+- 🤝 I’m looking for an **opportunities**
+
+- 📝 I regularly read articles on hashnode and medium
+
+- 💬 I'm looking to learn **more on flutter and other backend technologies to create more exciting mobile applicatiions**
+
 - 📫 How to reach me **sanskarshashwat.vns@gmail.com**
+
+- ⚡ Fun fact- **I'm football player dragged in the world of technology because of its beauty**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
