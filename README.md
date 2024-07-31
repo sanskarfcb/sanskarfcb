@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for an **opportunities**
 
-- 📝 I regularly read articles on hashnode and medium
+- 📝 I regularly read articles on hashnode and medium regarding new technologies
 
 - 💬 I'm looking to learn **more on flutter and other backend technologies to create more exciting mobile applicatiions**
 
