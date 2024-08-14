@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sanskarshashwat.vns@gmail.com**
 
-- ⚡ Fun fact- **I'm football player dragged in the world of technology because of its beauty**
+- ⚡ Fun fact:** I'm a football player who got drawn into the world of technology because of its beauty.**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
