@@ -1,27 +1,24 @@
 <h1 align="center">Hi , I'm Sanskar Mishra</h1>
 <h3 align="center">A passionate engineering student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarfcb&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarfcb" /> </p>
+# 💫 About Me:
+🌱 I’m currently learning basics and advance technologies to develop native mobile applications<br><br>👯 I’m looking to collaborate on flutter projects<br><br>🤝 I’m looking for an opportunities<br><br>📝 I regularly read articles on hashnode and medium regarding new technologies<br><br>💬 I'm looking to learn more on flutter and other backend technologies to create more exciting mobile applicatiions<br><br>📫 How to reach me sanskarshashwat.vns@gmail.com<br><br>⚡ Fun fact: I'm a football player who got drawn into the world of technology because of its beauty."<br><br>
 
-- 🌱 I’m currently learning **basics and advance technologies to develop native mobile applications**
 
-- 👯 I’m looking to collaborate on **flutter projects**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanskar-mishra-4915b621b/) 
 
-- 🤝 I’m looking for an **opportunities**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sanskarfcb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanskarfcb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarfcb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📝 I regularly read articles on hashnode and medium regarding new technologies
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💬 I'm looking to learn **more on flutter and other backend technologies to create more exciting mobile applicatiions**
+---
+[![](https://visitcount.itsvg.in/api?id=sanskarfcb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **sanskarshashwat.vns@gmail.com**
-
-- ⚡ Fun fact: I'm a football player who got drawn into the world of technology because of its beauty."
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarfcb&show_icons=true&locale=en&layout=compact" alt="sanskarfcb" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
