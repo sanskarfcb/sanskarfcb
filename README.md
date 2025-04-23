@@ -1,24 +1,65 @@
-<h1 align="center">Hi , I'm Sanskar Mishra</h1>
-<h3 align="center">A passionate engineering student from India</h3>
-
-# 💫 About Me:
-🌱 I’m currently learning basics and advance technologies to develop native mobile applications<br><br>👯 I’m looking to collaborate on flutter projects<br><br>🤝 I’m looking for an opportunities<br><br>📝 I regularly read articles on hashnode and medium regarding new technologies<br><br>💬 I'm looking to learn more on flutter and other backend technologies to create more exciting mobile applicatiions<br><br>📫 How to reach me sanskarshashwat.vns@gmail.com<br><br>⚡ Fun fact: I'm a football player who got drawn into the world of technology because of its beauty."<br><br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanskar-mishra-4915b621b/) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanskarfcb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanskarfcb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarfcb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hi 👋, I'm Sanskar Mishra</h1>
+<h3 align="center">Backend Developer | Java & Spring Boot Enthusiast | Final Year CSE Student</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanskarfcb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Final year B.Tech student at GLA University, Mathura  
+- 💻 I’m focused on building scalable backend systems using **Java** and **Spring Boot**  
+- 🔁 I have hands-on experience with **CRUD operations**, **APIs**, and **SQL databases**  
+- 📱 Also explored **Flutter** and **Firebase** for mobile app development  
+- 💬 Currently enhancing my knowledge in **DSA**, **Low-Level Design (LLD)**, and **System Design**  
+- 🔎 Open to backend-focused roles and internship opportunities  
+- 📫 Reach me at: **sanskarshashwat.vns@gmail.com**  
+- ⚡ Fun Fact: I’m a football player turned tech enthusiast ⚽💻  
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskar-mishra-4915b621b/)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Backend:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Mobile (Explored):**  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+**Others:**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskarfcb&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarfcb&theme=tokyonight&hide_border=true" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarfcb&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## ✍️ Developer Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sanskarfcb&icon=0&color=0" alt="Profile Views"/>
+</p>
+
+<!-- Made with ❤️ by Sanskar Mishra -->
