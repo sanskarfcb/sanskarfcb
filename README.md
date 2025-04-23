@@ -57,9 +57,4 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sanskarfcb&icon=0&color=0" alt="Profile Views"/>
-</p>
-
 <!-- Made with ❤️ by Sanskar Mishra -->
