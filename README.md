@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanskar Mishra</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot Enthusiast | Final Year CSE Student</h3>
+<h3 align="center">Backend Developer | Java & Spring Boot Enthusiast </h3>
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 Final year B.Tech student at GLA University, Mathura  
+ 
 - 💻 I’m focused on building scalable backend systems using **Java** and **Spring Boot**  
 - 🔁 I have hands-on experience with **CRUD operations**, **APIs**, and **SQL databases**  
 - 📱 Also explored **Flutter** and **Firebase** for mobile app development  
