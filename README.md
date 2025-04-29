@@ -50,10 +50,10 @@
 
 ## 🌱 Currently Learning
 
-- 🔁 **Spring Boot Advanced Concepts** (Security, JWT, Testing)
+- 🔁 **Spring Boot Advanced Concepts** 
 - 🛠️ **Flutter Clean Architecture & Riverpod**
 - 🧠 **System Design** for scalable software
-- 💻 **DSA** & **Java Core Concepts** (for interviews)
+- 💻 **DSA** & **Java Core Concepts** 
 
 ---
 
