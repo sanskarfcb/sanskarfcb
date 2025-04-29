@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Sanskar Mishra</h1>
-<h3 align="center">Passionate Software Engineer | Java & Spring Boot Enthusiast | Flutter Developer | Final Year B.Tech CSE Student</h3>
+<h3 align="center">Passionate Software Engineer | Java & Spring Boot Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanskarfcb&style=flat-square&color=blue" alt="Profile views" />
