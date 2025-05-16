@@ -17,21 +17,33 @@ Some of the projects I have built include a student management system using Spri
 
 ---
 
-<h3 align="center">Technology Stack</h3>
+<h3 align="center">🛠️ Technology Stack</h3>
 
 <p align="center">
-Java • Spring Boot • PostgreSQL • REST APIs • Git • GitHub • Postman • Firebase • Flutter • Dart • C • IntelliJ • VS Code
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">Learning Focus</h3>
+<h3 align="center">🎯 Learning Focus</h3>
 
 At present, I am diving deeper into advanced Spring Boot concepts, system design fundamentals, and backend architecture best practices. I also dedicate time to practicing DSA and Java core concepts to stay sharp for software engineering interviews.
 
 ---
 
-<h3 align="center">Projects</h3>
+<h3 align="center">📁 Projects</h3>
 
 You can explore my GitHub for projects that demonstrate my technical skills and learning mindset. Key repositories include:
 
@@ -42,15 +54,15 @@ You can view all my repositories [here](https://github.com/sanskarfcb?tab=reposi
 
 ---
 
-<h3 align="center">Contact</h3>
+<h3 align="center">📬 Contact</h3>
 
-- Email: [sanskarshashwat.vns@gmail.com](mailto:sanskarshashwat.vns@gmail.com)  
-- LinkedIn: [Sanskar Mishra](https://www.linkedin.com/in/sanskar-mishra-4915b621b/)  
-- Portfolio: Coming soon
+- 📧 Email: [sanskarshashwat.vns@gmail.com](mailto:sanskarshashwat.vns@gmail.com)  
+- 🔗 LinkedIn: [Sanskar Mishra](https://www.linkedin.com/in/sanskar-mishra-4915b621b/)  
+- 🌐 Portfolio: Coming soon
 
 ---
 
-<h3 align="center">GitHub Statistics</h3>
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskarfcb&theme=react&show_icons=true&hide_border=true" width="48%" />
@@ -62,7 +74,6 @@ You can view all my repositories [here](https://github.com/sanskarfcb?tab=reposi
 
 ---
 
-<h3 align="center">Closing Note</h3>
+<h3 align="center">🙏 Closing Note</h3>
 
 I’m committed to growing as a software engineer by building, collaborating, and solving meaningful challenges. If you’re working on something impactful or looking for someone with backend development skills, I’d love to connect.
-
