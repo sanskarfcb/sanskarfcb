@@ -3,10 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanskarfcb&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Total%20Commits-Including%20Private%20Enabled-blue?logo=github" alt="Total Commits" />
-</p>
+  
 
-<p align="center">🌍 Based in Varanasi, India (IST)</p>
 
 ---
 
