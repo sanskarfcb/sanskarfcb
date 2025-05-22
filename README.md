@@ -35,13 +35,13 @@ Some of the projects I have built include a student management system using Spri
 
 ---
 
-<h3 align="center">🎯 Learning Focus</h3>
+<h3 align="center"> Learning Focus</h3>
 
 At present, I am diving deeper into advanced Spring Boot concepts, system design fundamentals, and backend architecture best practices. I also dedicate time to practicing DSA and Java core concepts to stay sharp for software engineering interviews.
 
 ---
 
-<h3 align="center">📁 Projects</h3>
+<h3 align="center"> Projects</h3>
 
 You can explore my GitHub for projects that demonstrate my technical skills and learning mindset. Key repositories include:
 
@@ -52,14 +52,14 @@ You can view all my repositories [here](https://github.com/sanskarfcb?tab=reposi
 
 ---
 
-<h3 align="center">📬 Contact</h3>
+<h3 align="center"> Contact</h3>
 
 - 📧 Email: [sanskarshashwat.vns@gmail.com](mailto:sanskarshashwat.vns@gmail.com)  
 - 🔗 LinkedIn: [Sanskar Mishra](https://www.linkedin.com/in/sanskar-mishra-4915b621b/)  
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<h3 align="center"> GitHub Statistics</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskarfcb&count_private=true&theme=react&show_icons=true&hide_border=true" width="48%" />
@@ -71,7 +71,7 @@ You can view all my repositories [here](https://github.com/sanskarfcb?tab=reposi
 
 ---
 
-<h3 align="center">💬 Quote of the Day</h3>
+<h3 align="center"> Quote of the Day</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -79,6 +79,6 @@ You can view all my repositories [here](https://github.com/sanskarfcb?tab=reposi
 
 ---
 
-<h3 align="center">🙏 Closing Note</h3>
+<h3 align="center"> Closing Note</h3>
 
 I’m committed to growing as a software engineer by building, collaborating, and solving meaningful challenges. If you’re working on something impactful or looking for someone with backend development skills, I’d love to connect.
