@@ -11,7 +11,7 @@
 I am a dedicated software engineer with a strong focus on backend development using Java and Spring Boot. My journey in tech revolves around building scalable, real-world applications that solve meaningful problems. I enjoy working across the stack but particularly thrive in designing robust APIs, managing relational databases, and architecting backend systems that scale.  
 Currently, I am honing my skills through hands-on projects that involve Spring Boot, PostgreSQL, RESTful API development, and clean architecture principles. Alongside backend development, I also explore cross-platform mobile development and UI design with Flutter to expand my understanding of full-stack workflows and user experience.  
 My academic background in Computer Science has laid the foundation in data structures, algorithms, and system-level concepts. Outside academics, I consistently explore advanced areas like system design, low-level/high-level architecture, and clean code practices.  
-Some of the projects I have built include a student management system using Spring Boot and PostgreSQL and a movie browsing app that consumes the TMDB API. These projects not only reflect my technical stack but also my commitment to continuous learning and problem-solving.
+Some of the projects I have built include a student management system using Spring Boot and PostgreSQL and a movie browsing app that consumes the TMDB API. These projects not only reflect my technical stack but also commited to continuous learning and problem-solving.
 
 ---
 
