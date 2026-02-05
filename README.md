@@ -54,7 +54,7 @@ You can view all my repositories [here](https://github.com/sanskarfcb?tab=reposi
 
 <h3 align="center"> Contact</h3>
 
-- 📧 Email: [sanskarshashwat.vns@gmail.com](mailto:sanskarshashwat.vns@gmail.com)  
+- 📧 Email: [sanskarmishra.work@gmail.com](mailto:sanskarmishra.work@gmail.com)  
 - 🔗 LinkedIn: [Sanskar Mishra](https://www.linkedin.com/in/sanskar-mishra-4915b621b/)  
 
 ---
